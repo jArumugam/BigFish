@@ -19,16 +19,18 @@ Further, network abstraction allows the solution to be useful in a wide range of
 
 ### Actionable questions
 The question(s) I address are the following:
-- **_Given taxi-ride demand predictions, can we suggest optimal pick-up locations for a taxi driver?_** 
+1. **_Given taxi-ride demand predictions, can we suggest optimal pick-up locations for a taxi driver?_** 
+  - I want to consider a dynamic situation where the suggestion machine accounts for competition (or supply) from other taxi drivers. 
 
-I want to consider a dynamic situation where the suggestion machine accounts for competition (or supply) from other taxi drivers. 
+2. **_ Are there good pickup-drop cycles?_** 
+  - This is optimizing over longer periods of time isntead of looking at a particular instance 
 
 ### Plan
 1. Abstract data using networks 
 2. Formulate appropriate optimization problems 
 3. Visualize results
 4. Get taxi-demand prediction working 
-5. Refine questions. Improve steps 1, 2, 3, and 4 
+5. Refine questions. Significant improvements to steps 1, 2, 3, and 4 
 6. Scale up 
 7. Real-time app using cloud services 
 
