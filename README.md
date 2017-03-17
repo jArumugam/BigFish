@@ -34,7 +34,19 @@ The question(s) I address are the following:
 6. Scale up 
 7. Real-time app using cloud services 
 
+### Timeline
+- March 05 2017 to March 15 2017: Project definition 
+- March 16 2017 to March 20 2017: Feasibility check 
+- March 20 2017 to March 30 2017: Version 0.1 
+- April 01 2017 to April 15 2017: Taxi-demand prediction, step 6 feasibility 
+- April 15 2017 to April 30 2017: Integrate steps 1, 2, 3, and 5 
+- May 15 2017 to May 30 2017: Step 5 First iteration 
+- June 01 2017 to June 10 2017: Collaborate 
+- June 11 2017 to June 30 2017: Scale up and step 7 
+- July 01 2017 to July 15 2017: Step 5 Second iteration 
+- July 15 2017 to July 30 2017: Explore different applications
+
 ### You are welcome!
-Interested data scientists whoc are willing share specific resposibilities are welcome to participate. 
+Interested data scientists who are willing share specific resposibilities are welcome to participate. 
 
 ### Thank you for your time! 
