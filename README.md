@@ -19,7 +19,8 @@ Further, network abstraction allows the solution to be useful in a wide range of
 
 ### Actionable questions
 The question(s) I address are the following:
-- Given taxi-ride demand predictions, can we suggest optimal pick-up locations for a taxi driver? 
+- **_Given taxi-ride demand predictions, can we suggest optimal pick-up locations for a taxi driver?_** 
+
 I want to consider a dynamic situation where the suggestion machine accounts for competition (or supply) from other taxi drivers. 
 
 ### Plan
@@ -33,4 +34,4 @@ I want to consider a dynamic situation where the suggestion machine accounts for
 ### You are welcome!
 Interested data scientists whoc are willing share specific resposibilities are welcome to participate. 
 
-## Thank you for your time! 
+### Thank you for your time! 
