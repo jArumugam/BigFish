@@ -26,10 +26,11 @@ I want to consider a dynamic situation where the suggestion machine accounts for
 ### Plan
 1. Abstract data using networks 
 2. Formulate appropriate optimization problems 
-3. Get taxi-demand prediction working 
-4. Visualize results 
-5. Scale up 
-6. Real-time app using cloud services 
+3. Visualize results
+4. Get taxi-demand prediction working 
+5. Refine questions. Improve steps 1, 2, 3, and 4 
+6. Scale up 
+7. Real-time app using cloud services 
 
 ### You are welcome!
 Interested data scientists whoc are willing share specific resposibilities are welcome to participate. 
