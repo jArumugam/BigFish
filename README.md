@@ -39,7 +39,7 @@ The question(s) I address are the following:
 
 ### Timeline
 - March 05 2017 to March 15 2017: Project definition 
-- March 16 2017 to March 20 2017: Feasibility check 
+- March 16 2017 to March 20 2017: [Feasibility check](https://github.com/jArumugam/BigFish/blob/master/notebooks/NB01%20Data%20Exploration.ipynb) 
 - March 20 2017 to March 30 2017: Version 0.1 
 - April 01 2017 to April 15 2017: Taxi-demand prediction, step 6 feasibility 
 - April 15 2017 to April 30 2017: Integrate steps 1, 2, 3, and 4 
