@@ -44,10 +44,10 @@ The question(s) I address are the following:
 - April 01 2017 to April 15 2017: Taxi-demand prediction, step 6 feasibility 
 - April 15 2017 to April 30 2017: Integrate steps 1, 2, 3, and 4 
 - May 15 2017 to May 30 2017: Step 5 first iteration 
-- June 01 2017 to June 10 2017: Collaborate 
-- June 11 2017 to June 30 2017: Scale up and step 7 
-- July 01 2017 to July 15 2017: Step 5 second iteration 
-- July 15 2017 to July 30 2017: Explore different applications
+- June 01 2017 to June 10 2017: Network  
+- June 11 2017 to June 20 2017: Scale up and step 7 
+- June 21 2017 to June 30 2017: Step 5 second iteration 
+- July 01 2017 to July 15 2017: Explore different applications
 
 ### You are welcome!
 Interested data scientists who are willing to share specific resposibilities are welcome to participate. 
