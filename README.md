@@ -14,7 +14,7 @@ I want to add a new dimension.
 I intend to use network analysis tools to study the data. 
 
 ### Motivation
-There is an immediate advantage for using network analysis tools. 
+There is an immediate advantage in using network analysis tools. 
 Previous studies predict pickup amount, trip fare, etc., in real-time. 
 However, this information as such would need further processing for making decisions. 
 Network analysis offers rich models to answer many actionable questions. 
