@@ -1,1 +1,1 @@
-Results files
+Results and figures 
