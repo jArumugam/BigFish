@@ -1,5 +1,8 @@
 Hello!
 
+
+<img src="https://github.com/jArumugam/BigFish/blob/master/results/unweighted_graph_Y16_full.png" width="300" height="300" /><img src="https://github.com/jArumugam/BigFish/blob/master/results/weighted_graph_Y16_partial.png" width="300" height="300" />
+
 ### Context
 I found many interesting projects that study NYC Taxi Data.
 Most of them predict taxi-ride demands based on features like location and weather. 
