@@ -50,6 +50,6 @@ The question(s) I address are the following:
 - July 15 2017 to July 30 2017: Explore different applications
 
 ### You are welcome!
-Interested data scientists who are willing share specific resposibilities are welcome to participate. 
+Interested data scientists who are willing to share specific resposibilities are welcome to participate. 
 
 ### Thank you for your time! 
