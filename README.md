@@ -23,10 +23,10 @@ Further, network abstraction allows the solution to be useful in a wide range of
 ### Actionable questions
 The question(s) I address are the following:
 1. **_Given taxi-ride demand predictions, can we suggest optimal pick-up locations for a taxi driver?_** 
-  - I want to consider a dynamic situation where the suggestion machine accounts for competition (or supply) from other taxi drivers. 
+  - I want to consider a dynamic situation where the suggestion machine accounts for a variety of utility functions including aspects like competition (or supply) from other taxi drivers. 
 
 2. **_Are there good pickup-drop cycles?_** 
-  - This is optimizing over longer periods of time instead of looking at a particular instance 
+  - The driver may want his next pickup location to conincide with the previous drop location. This is optimizing over longer periods of time instead of looking at a particular instance 
 
 ### Plan
 1. Abstract data using networks 
