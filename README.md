@@ -26,7 +26,7 @@ The question(s) I address are the following:
   - I want to consider a dynamic situation where the suggestion machine accounts for competition (or supply) from other taxi drivers. 
 
 2. **_Are there good pickup-drop cycles?_** 
-  - This is optimizing over longer periods of time isntead of looking at a particular instance 
+  - This is optimizing over longer periods of time instead of looking at a particular instance 
 
 ### Plan
 1. Abstract data using networks 
@@ -43,10 +43,10 @@ The question(s) I address are the following:
 - March 20 2017 to March 30 2017: Version 0.1 
 - April 01 2017 to April 15 2017: Taxi-demand prediction, step 6 feasibility 
 - April 15 2017 to April 30 2017: Integrate steps 1, 2, 3, and 4 
-- May 15 2017 to May 30 2017: Step 5 First iteration 
+- May 15 2017 to May 30 2017: Step 5 first iteration 
 - June 01 2017 to June 10 2017: Collaborate 
 - June 11 2017 to June 30 2017: Scale up and step 7 
-- July 01 2017 to July 15 2017: Step 5 Second iteration 
+- July 01 2017 to July 15 2017: Step 5 second iteration 
 - July 15 2017 to July 30 2017: Explore different applications
 
 ### You are welcome!
