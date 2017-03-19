@@ -5,7 +5,7 @@ Hello!
 
 ### Context
 I found many interesting projects that study NYC Taxi Data such as [Ride Demand Prediction1](https://github.com/Sapphirine/Analyzing1Billion-NYC_Yellow_Taxi_Rides_for_Ride_Demands_Prediction) and [Ride Demand Prediction2](http://sdaulton.github.io/TaxiPrediction/).
-Most of them predict taxi-ride demands based on features like time, location and weather. 
+Most of them predict taxi-ride demands. 
 
 ### Objective
 I want to add a new dimension to the problem. 
