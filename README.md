@@ -21,7 +21,7 @@ Network analysis offers rich models to answer many actionable questions.
 Further, network abstraction allows the solution to be useful in a wide range of other applications
 
 ### Actionable questions
-The question(s) I address are the following:
+The questions I address are the following:
 1. **_Given taxi-ride demand predictions, can we suggest optimal pick-up locations for a taxi driver?_** 
   - I want to consider a dynamic situation where the suggestion machine accounts for a variety of utility functions including aspects like competition (or supply) from other taxi drivers. 
 
