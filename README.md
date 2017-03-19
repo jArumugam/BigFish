@@ -8,7 +8,7 @@ I found many interesting projects that study NYC Taxi Data such as [Ride Demand 
 Most of them predict taxi-ride demands based on features like time, location and weather. 
 
 ### Objective
-I want to add a new dimension. 
+I want to add a new dimension to the problem. 
 
 ### Scope
 I intend to use network analysis tools to study the data. 
