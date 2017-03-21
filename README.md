@@ -31,9 +31,7 @@ The questions I address are the following:
 ### Metric 
 Expected profits per day per taxi 
 - for the driver 
-- for the owner 
-- for the passenger 
-- for the public 
+- ~~owner, passenger, public~~ 
 
 ### Plan
 1. Abstract data using networks 
