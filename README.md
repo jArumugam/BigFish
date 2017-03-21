@@ -28,6 +28,12 @@ The questions I address are the following:
 2. **_Are there good pickup-drop cycles?_** 
   - The driver may want his next pickup location to conincide with the previous drop location. This is optimizing over longer periods of time instead of looking at a particular instance 
 
+### Metric 
+Expected profits per day per taxi 
+- for the driver 
+- for the owner 
+- for the passenger
+
 ### Plan
 1. Abstract data using networks 
 2. Formulate appropriate optimization problems 
