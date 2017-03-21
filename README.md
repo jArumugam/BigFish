@@ -32,7 +32,8 @@ The questions I address are the following:
 Expected profits per day per taxi 
 - for the driver 
 - for the owner 
-- for the passenger
+- for the passenger 
+- for the public 
 
 ### Plan
 1. Abstract data using networks 
