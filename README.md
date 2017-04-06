@@ -44,9 +44,9 @@ Expected profits per day per taxi
 
 ### Timeline
 - March 05 2017 to March 15 2017: Project definition 
-- March 16 2017 to March 20 2017: [Feasibility check](https://github.com/jArumugam/BigFish/tree/master/notebooks) 
-- **March 21 2017 to March 30 2017: Version 0.1**
-- April 01 2017 to April 15 2017: Taxi-demand prediction, step 6 feasibility 
+- March 16 2017 to March 20 2017: Feasibility check
+- March 21 2017 to March 30 2017: [Version 0.1]((https://github.com/jArumugam/BigFish/tree/master/notebooks) )
+- **April 01 2017 to April 15 2017: Taxi-demand prediction, step 6 feasibility** 
 - April 15 2017 to April 30 2017: Integrate steps 1, 2, 3, and 4 
 - May 15 2017 to May 30 2017: Step 5 first iteration 
 - June 01 2017 to June 10 2017: Network and collaborate 
