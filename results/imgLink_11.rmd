@@ -8,5 +8,5 @@ Here the pickup locations are abstracted as a graph. A weighted graph reveals st
 
 <img src="https://github.com/jArumugam/BigFish/blob/master/results/unweighted_graph_Y16_full.png" width="400" height="400" /><img src="https://github.com/jArumugam/BigFish/blob/master/results/weighted_graph_Y16_partial.png" width="400" height="400" />
 
-The weight graph was formed based on number of trips between nodes. 
+The weighted graph was formed based on number of trips between nodes. 
 
