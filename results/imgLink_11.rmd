@@ -1,8 +1,12 @@
+## Effect of Discretization 
+
 Apparently, central park is better visible with a finer discretization. 
 
 <img src="https://github.com/jArumugam/BigFish/blob/master/results/binned_fares_40x40.png" width="400" height="400" /><img src="https://github.com/jArumugam/BigFish/blob/master/results/binned_fares_80x80.png" width="400" height="400" /> 
 
 However, dependence of other structures in the data on discretization is not that apparent. 
+
+## Network Abstraction of Pickup Locations 
 
 Here the pickup locations are abstracted as a graph. A weighted graph reveals structure differently. 
 
