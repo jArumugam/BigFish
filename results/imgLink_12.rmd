@@ -1,0 +1,5 @@
+Apparently, central park is better visible with a finer discretization.
+
+
+
+However, dependence of other structures in the data on discretization is not that apparent.
