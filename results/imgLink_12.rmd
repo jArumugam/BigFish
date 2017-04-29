@@ -2,4 +2,6 @@ Sweet spots do change with discretization and are more precisely located.
 
 <img src="https://github.com/jArumugam/BigFish/blob/master/results/Weekday-00_40x40.png" width="485" height="300" /><img src="https://github.com/jArumugam/BigFish/blob/master/results/Weekday-00_80x80.png" width="485" height="300" /> 
 
+The weights indicate optimality of a grid point with respect to pickups. Higher the weights, the better a location is (at a particular time).
+
 
