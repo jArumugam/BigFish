@@ -1,10 +1,18 @@
-## Effect of Discretization 
+## Discretization 
 
 Apparently, central park is better visible with a finer discretization. 
 
 <img src="https://github.com/jArumugam/BigFish/blob/master/results/binned_fares_40x40.png" width="400" height="400" /><img src="https://github.com/jArumugam/BigFish/blob/master/results/binned_fares_80x80.png" width="400" height="400" /> 
 
 However, dependence of other structures in the data on discretization is not that apparent. 
+
+## The Good, Bad, and the Ugly Drivers
+
+<center>
+<img src="https://github.com/jArumugam/BigFish/blob/master/results/hack_performance_40x40.png" width="500" />
+</center>
+
+## Sweet Spots 
 
 Sweet spots do change with discretization and are more precisely located. 
 
