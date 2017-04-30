@@ -1,1 +1,4 @@
 Results and figures 
+
+<img src="https://github.com/jArumugam/BigFish/blob/master/results/unweighted_graph_Y16_full.png" width="300" height="300" /><img src="https://github.com/jArumugam/BigFish/blob/master/results/weighted_graph_Y16_partial.png" width="300" height="300" />
+
