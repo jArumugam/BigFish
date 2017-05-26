@@ -33,6 +33,7 @@ Expected profits per day per taxi
 - for the driver 
 - ~~owner, passenger, public~~ 
 
+
 ### Plan
 1. Abstract data using networks 
 2. Formulate appropriate optimization problems 
@@ -42,6 +43,7 @@ Expected profits per day per taxi
 6. Scale up 
 7. Real-time app using cloud services 
 
+<!--- 
 ### Timeline
 - March 05 2017 to March 15 2017: Project definition 
 - March 16 2017 to March 20 2017: Feasibility check
@@ -54,6 +56,7 @@ Expected profits per day per taxi
 - June 21 2017 to June 30 2017: Step 5 second iteration 
 - July 01 2017 to July 15 2017: Communicate 
 - July 16 2017 to July 30 2017: Explore other applications 
+--->
 
 ### You are welcome!
 Interested data scientists who are willing to share specific resposibilities are welcome to participate. 
